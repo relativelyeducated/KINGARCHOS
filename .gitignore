@@ -1,0 +1,78 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb_checkpoints/
+
+# Data files (large datasets)
+*.dat
+*.csv
+*.hdf5
+*.h5
+*.fits
+data/raw/*.dat
+data/raw/*.csv
+
+# Results/outputs that can be regenerated
+*.png
+*.jpg
+*.pdf
+results/figures/*.png
+results/figures/*.jpg
+
+# OS files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Temporary files
+*.log
+*.tmp
+*.bak
+*.cache
+.pytest_cache/
+
+# Environment variables
+.env
+.env.local
+
+# Private internal analysis (not for publication)
+INTERNAL_ISSUES.md
+DERIVATION_PROBLEMS.md
+CIRCULAR_REASONING_ANALYSIS.md
+.private/
+internal/
