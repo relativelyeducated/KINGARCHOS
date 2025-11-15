@@ -12,6 +12,16 @@ scikit-learn>=1.0.0
 # Visualization
 matplotlib>=3.4.0
 
+# Bioinformatics (for protein structure analysis)
+biopython>=1.79
+requests>=2.26.0  # For downloading PDB files
+
+# Testing framework
+pytest>=7.0.0
+pytest-cov>=3.0.0  # Coverage reporting
+pytest-mock>=3.6.0  # Mocking utilities
+hypothesis>=6.0.0  # Property-based testing
+
 # Optional: Enhanced analysis
 # jupyter>=1.0.0  # For notebook interfaces
 # seaborn>=0.11.0  # For statistical plots
