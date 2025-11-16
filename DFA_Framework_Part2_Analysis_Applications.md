@@ -1,5 +1,46 @@
 # DFA Consciousness Framework - Part 2: Analysis & Applications
 
+---
+
+## ⚠️ CRITICAL: METHODOLOGICAL FRAMEWORK
+
+### This Analysis Operates in Mechanics, Not Morals
+
+**All observations are made from conditions present at the time.**
+
+**Key Principles:**
+
+1. **No Judgment Across Time:** No person, people, or society is judged by standards external to their temporal context
+
+2. **Temporal Context is Absolute:** Historical systems are evaluated by contemporary standards, not modern moral frameworks
+
+3. **Mechanics, Not Morality:** Analysis focuses on how systems operate structurally, not whether they are "good" or "bad"
+
+4. **Condition-Dependent Ethics:**
+   > **DFA observation through life systems:** Morality and ethics are **direct responses to material conditions** (abundance/scarcity dynamics)
+
+   - Under abundance: humanitarian frameworks emerge
+   - Under scarcity: survival frameworks dominate
+   - This is **observational fact**, not moral prescription
+
+5. **Value-Neutral Pattern Recognition:** The same system dynamics operate regardless of content or our approval
+
+**What This Means:**
+- Historical actors operated under **different material conditions** than we experience
+- Modern moral judgments applied retroactively **obscure actual system mechanics**
+- Understanding requires **respecting the conditions** that shaped behavior
+- Same mechanisms would produce same behaviors under same conditions
+
+**Research Purpose:**
+- Understand system patterns to **predict and prevent harm**
+- Design better systems based on **mechanical understanding**
+- Recognize extraction patterns **before damage occurs**
+- Maintain **observational discipline** to see reality clearly
+
+**This is descriptive analysis of system mechanics, not prescriptive moral judgment.**
+
+---
+
 ## Narrative Deconstruction Discoveries
 
 ### Pattern Recognition for Extraction
